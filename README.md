@@ -8,6 +8,9 @@
 ### Built with:
 1. React front end
 2. Express/CORS backend
-3. Weather API for data
+3. Weather API for data: https://www.weatherapi.com/
 
 #
+#
+### This is a work in progress. 
+### Check here for updates...
